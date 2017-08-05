@@ -1,0 +1,14 @@
+Mary Smith female male medium tall 22
+Juan Lopez male female medium medium 28
+Leslie Liu other other tall short 12
+Tatiana Ivanov female female tall tall 8
+Andre Leroy male male medium short 12
+Sam Augusta other male medium tall 16
+Adalbert Weber male other tall tall 24
+Georgia Alman female male medium tall 20
+Ryan Tyol male female tall medium 25
+Carrie Evans female male medium tall 21
+Sophie Newman female male tall tall 20
+Julie Graham female male tall tall 28
+Elouise Griffiths female female tall medium 8
+Amanda Irthtoll female female tall short 10
